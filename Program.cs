@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Создать класс сотрудники (имя, возраст, должность, зарплата)
+// Создать геттреры и сеттеры с проверкой.
+// Заполнить обьект с клавиатуры и вывести на экран
+//staff - сотрудники
+//_name _age    
 using static System.Console;
 namespace SimpleProject
 {
