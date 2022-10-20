@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sharp_19-10-2022_class_staff_get_set/1.0.0": {
+        "runtime": {
+          "sharp_19-10-2022_class_staff_get_set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sharp_19-10-2022_class_staff_get_set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
